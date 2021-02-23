@@ -1,0 +1,43 @@
+/* CSS Document */
+* {
+	background-color: aliceblue;
+}
+
+
+button { 
+    font-size: 30px;
+    background-color: azure
+}
+
+h1,h2 {
+	color: deepskyblue
+	
+}
+
+
+#signup{
+	background-color: aqua;
+	color: white
+}
+
+
+span {
+    color: black
+}
+		
+.tag {
+	background-color: aqua
+	color: white;
+	font-size: 16px
+		
+}
+
+
+.post a {
+	color: black 
+}
+
+footer a{
+	color: redsss
+
+}
